@@ -1,5 +1,5 @@
 PKG_NAME := pypi-regress
-URL = https://files.pythonhosted.org/packages/4b/05/6d4bc9557e4a999368d42dc9f4b166db0a5727a20c92b949a6254669dfd0/regress-0.4.2.tar.gz
-ARCHIVES = $(CGIT_BASE_URL)/vendor/pypi-regress/snapshot/pypi-regress-2023-11-29-00-22-51.tar.xz ./vendor
+URL = https://files.pythonhosted.org/packages/6a/66/48fe4e8d5b14f9d5ac394b4f8847c1cf69f8c1cfa4c2b216f570f0114f97/regress-2024.11.1.tar.gz
+ARCHIVES = $(CGIT_BASE_URL)/vendor/pypi-regress/snapshot/pypi-regress-2024-11-15-23-55-17.tar.gz ./vendor
 
 include ../common/Makefile.common
